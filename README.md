@@ -2,8 +2,10 @@
 
 The TMDb Movie dataset, one of Udacity's curated datasets has been selected for investigation using NumPy and Pandas. The dataset is a collection of information on around 10000 movies. For each movie, the dataset includes information on aspects such as popularity, budget, revenue, cast, directors, production house, date of release, runtime, and its rating. 
 
-* The data was assessed and necessary cleaning steps (documented with reasoning in the Jupyter notebook) were performed to unify formats, deal with missing data and prepare the dataset for analysis
-* The data was explored to gather insights about the relationship between different aspects, visualizations were created and inferences were made to answer the research questions documented below: 
+## Outline of analysis
+* Assessed the data and brainstormed questions that could be answered by the data 
+* Performed necessary cleaning steps to unify formats, deal with missing data and prepare the dataset for analysis
+* Explored the data using Pandas and Numpy to gather insights about the relationship between different aspects, created visualizations using matplotlib and made inferences to answer the research questions posed 
 
 ## RESEARCH QUESTIONS:
 1. How have movie production trends varied over the years?
