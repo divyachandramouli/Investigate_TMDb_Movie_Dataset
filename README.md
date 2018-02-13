@@ -7,7 +7,7 @@ The TMDb Movie dataset, one of Udacity's curated datasets has been selected for 
 * Performed necessary cleaning steps to unify formats, deal with missing data and prepare the dataset for analysis
 * Explored the data using Pandas and Numpy to gather insights about the relationship between different aspects, created visualizations using matplotlib and made inferences to answer the research questions posed 
 
-## RESEARCH QUESTIONS:
+## Research Questions
 1. How have movie production trends varied over the years?
 2. What are the top 20 highest grossing movies? What are the top 20 most expensive movies? 
 3. How do budgets correlate with revenues? Do higher budget movies have higher revenue?
