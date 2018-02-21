@@ -1,5 +1,7 @@
 # Investigate the TMDb movie dataset
 
+This project was done as part of Udacity's Data Analyst Nanodegree - Term 1.
+
 The TMDb Movie dataset, one of Udacity's curated datasets has been selected for investigation using NumPy and Pandas. The dataset is a collection of information on around 10000 movies. For each movie, the dataset includes information on aspects such as popularity, budget, revenue, cast, directors, production house, date of release, runtime, and its rating. 
 
 ## Outline of analysis
